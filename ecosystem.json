@@ -10,11 +10,11 @@
   }],
   "deploy" : {
     "production" : {
-      "user" : "juriy",
+      "user" : "sabithanune12",
       "host" : "nanogram.io",
-      "repo" : "https://github.com/Juriy/easyio.git",
+      "repo" : "https://github.com/sabithanune12/NodeJs.git",
       "ref"  : "origin/master",
-      "path" : "/home/juriy/easyio",
+      "path" : "/home/sabithanune12/NodeJs",
       "post-deploy" : "npm install && pm2 startOrRestart ecosystem.json --env production"
     }
   }
