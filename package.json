@@ -1,16 +1,16 @@
 {
-  "name": "easyio",
+  "name": "NodeJs",
   "version": "0.0.1",
   "description": "A tiny node.js app to test your socket.io connectivity",
   "main": "main.js",
   "repository": {
-    "url": "git@github.com:Juriy/easyio.git",
+    "url": "git@github.com:sabithanune12/NodeJs.git",
     "type": "git"
   },
   "scripts": {
     "start": "node main.js"
   },
-  "author": "Juriy Bura <juriy.bura@gmail.com>",
+  "author": "Juriy Bura <sabithanunegit123@gmail.com>",
   "license": "MIT",
   "dependencies": {
     "express": "^4.17.1",
